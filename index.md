@@ -40,17 +40,19 @@ During my brief professional career, I have worked on autonomous navigation of m
 ---
 
 <h2 class="h1" style="color: rgb(1,92,171)" id="work_experience">Work Experience </h2>
-1. IFuture Robotics (July 2019 - October 2020) <br/>
+1. IFuture Robotics _(July 2019 - October 2020)_
 >Autonomous navigation of a mobile robot in factories and warehouses for material movement.
 
-2. DND SmartLabs (Jan 2019 - May 2019) <br/>
+2. DND SmartLabs _(Jan 2019 - May 2019)_
 >Autonomous navigation of a mobile robot in an indoor human environment.
 
 ---
 
 <h2 class="h1" style="color: rgb(1,92,171)" id="open_source_projects">Open Sourse Projects </h2>
 1. [NotesTree](https://github.com/aditya-shriwastava/NotesTree)
+>NotesTree is a command line tool for maintaining handwritten notes in a tree structure using markdown.
 2. [Root](https://github.com/aditya-shriwastava/root)
+>Root is an open-source indoor simulated robot.
 
 ---
 
