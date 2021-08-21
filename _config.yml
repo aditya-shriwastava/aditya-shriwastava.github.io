@@ -49,9 +49,9 @@ author:
 menu:
   - title:             ABOUT
     url:               /#about
-  - title:             WORK EXPERIENCE
+  - title:             EXPERIENCE
     url:               /#work_experience
-  - title:             OPEN SOURCE PROJECTS
+  - title:             PROJECTS
     url:               /#open_source_projects
 #   - title:             Blog
 #     url:               /blog
