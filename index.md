@@ -46,9 +46,8 @@ During my brief professional career, I have worked on autonomous navigation of m
 ---
 
 <h2 class="h1" style="color: rgb(1,92,171)" id="open_source_projects">Open Sourse Projects </h2>
-1. NotesTree
-2. Root
-3. Mobot
+1. [NotesTree](https://github.com/aditya-shriwastava/NotesTree)
+2. [Root](https://github.com/aditya-shriwastava/root)
 
 ---
 
