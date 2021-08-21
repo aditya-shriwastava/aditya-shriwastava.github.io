@@ -46,6 +46,7 @@ _(July 2019 - October 2020)_
 
 ## DND SmartLabs
 _(Jan 2019 - May 2019)_
+\*Internship
 >Autonomous navigation of a mobile robot in an indoor human environment.
 
 ---
