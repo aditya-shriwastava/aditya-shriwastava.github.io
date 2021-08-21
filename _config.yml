@@ -49,17 +49,15 @@ author:
 menu:
   - title:             ABOUT
     url:               /#about
-  - title:             WORK EXPERINCE
-    url:               /#research
-  - title:             PUBLICATIONS
-    url:               /#publications
-  - title:             CONTACT
-    url:               /#contact-me
+  - title:             WORK EXPERIENCE
+    url:               /#work_experience
+  - title:             OPEN SOURCE PROJECTS
+    url:               /#open_source_projects
 #   - title:             Blog
 #     url:               /blog
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2021 Abir Shriwastava. All rights reserved.
+copyright:             © 2021 Aditya Shriwastava. All rights reserved.
 
 # Format of the permalinks
 permalink:             /:categories/:year-:month-:day-:title/

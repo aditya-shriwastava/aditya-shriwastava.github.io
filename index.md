@@ -3,7 +3,7 @@ layout: page
 name: index
 title: Personal Website
 description: >
-  Personal Website of Abir Saha, a PhD student in the Technology and Social Behavior program at Northwestern University.
+  Personal Website of Aditya Shriwastava, a Robotics Engineer.
 hide_description: true
 ---
 <!-- <script type="text/javascript">
@@ -39,11 +39,13 @@ During my brief professional career, I have worked on autonomous navigation of m
 
 ---
 
-<h2 class="h1" style="color: rgb(1,92,171)" id="research">Work Experiance </h2>
+<h2 class="h1" style="color: rgb(1,92,171)" id="work_experience">Work Experience </h2>
 1. IFuture Robotics (July 2019 - October 2020)
 2. DND SmartLabs (Jan 2019 - May 2019)
 
-<h2 class="h1" style="color: rgb(1,92,171)" id="research">Open Sourse Projects </h2>
+---
+
+<h2 class="h1" style="color: rgb(1,92,171)" id="open_source_projects">Open Sourse Projects </h2>
 1. NotesTree
 2. Root
 3. Mobot
