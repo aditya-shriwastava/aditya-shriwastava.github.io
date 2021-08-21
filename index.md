@@ -40,11 +40,11 @@ During my brief professional career, I have worked on autonomous navigation of m
 ---
 
 <h2 class="h1" style="color: rgb(1,92,171)" id="work_experience">Work Experience </h2>
-1. IFuture Robotics (July 2019 - October 2020)
-    Autonomous navigation of a mobile robot in factories and warehouses for material movement.
+1. IFuture Robotics (July 2019 - October 2020) <br/>
+Autonomous navigation of a mobile robot in factories and warehouses for material movement.
 
-2. DND SmartLabs (Jan 2019 - May 2019)
-    Autonomous navigation of a mobile robot in an indoor human environment.
+2. DND SmartLabs (Jan 2019 - May 2019) <br/>
+Autonomous navigation of a mobile robot in an indoor human environment.
 
 ---
 
