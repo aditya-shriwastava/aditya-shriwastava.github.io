@@ -44,7 +44,7 @@ During my brief professional career, I have worked on autonomous navigation of m
 _(July 2019 - October 2020)_
 >Autonomous navigation of a mobile robot in factories and warehouses for material movement.
 
-## DND SmartLabs**
+## DND SmartLabs
 _(Jan 2019 - May 2019)_
 >Autonomous navigation of a mobile robot in an indoor human environment.
 
