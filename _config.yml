@@ -4,7 +4,7 @@
 # IMPORTANT: Set the URL of your site.
 # Set to https://<username>.github.io when hosting on GitHub Pages
 # (unless you are using a custom domain).
-url:                   https://abirsh.github.io
+url:                   https://aditya-shriwastava.github.io
 
 # IMPORTANT: Set The "base URL" of your site.
 # When your site sits in a subdirectory, set to /<name of directory>
@@ -19,37 +19,37 @@ baseurl:               ''
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Abir Saha
+title:                 Aditya Shriwastava
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Personal Website of Abir Saha -  PhD student in Technology and Social Behavior at Northwestern University.
+  Personal Website of Aditya Shriwastava -  Robotics Engineer
 
 # A shorter description for the sidebar.
 tagline: |
-  PhD Student in Technology & Social Behavior
+  Robotics Engineer
 
 # A list of keywords for your blog
-keywords:              [Abir, Saha, Accessibility, HCI, Northwestern]
+keywords:              [Aditya, Shriwastava, Robotics, Engineer]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo:                  /assets/img/abir.png
+logo:                  /assets/img/me.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
-  name:                Abir Saha
-  email:               <abirsaha056@gmail.com>
+  name:                Aditya Shriwastava
+  email:               <adityashriwastava7@gmail.com>
   # Used by `jekyll-seo-tag`:
-  twitter:             abirsaha_
+  twitter:             AdityaShriwas18
 
 # Add links to the sidebar.
 menu:
   - title:             ABOUT
     url:               /#about
-  - title:             RESEARCH
+  - title:             WORK EXPERINCE
     url:               /#research
   - title:             PUBLICATIONS
     url:               /#publications
@@ -58,16 +58,8 @@ menu:
 #   - title:             Blog
 #     url:               /blog
 
-# Add links to the footer.
-# Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
-legal:
-  - title:             Legal
-    url:               /legal
-#   - title:             Cookies Policy
-#     url:               /cookies-policy/
-
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             © 2020 Abir Saha. All rights reserved.
+copyright:             © 2021 Abir Shriwastava. All rights reserved.
 
 # Format of the permalinks
 permalink:             /:categories/:year-:month-:day-:title/
