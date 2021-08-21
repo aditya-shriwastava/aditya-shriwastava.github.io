@@ -31,8 +31,8 @@ During my brief professional career, I have worked on autonomous navigation of m
 
 <div class="body-social sidebar-social">
   <ul>
-    <li> <a href="https://twitter.com/AdityaShriwas18" title="Twitter" class="no-mark-external" target="_blank"> <span class="icon-twitter"></span> <span aria-hidden="true">Twitter </span><span class="sr-only">Aditya Shriwastava's Twitter profile</span></a></li>
     <li> <a href="https://www.linkedin.com/in/aditya-shriwastava-b07849143" title="LinkedIn" class="no-mark-external" target="_blank"> <span class="icon-linkedin2"></span> <span aria-hidden="true">LinkedIn </span><span class="sr-only">Aditya Shriwastava's LinkedIn profile</span></a></li>
+    <li> <a href="https://twitter.com/AdityaShriwas18" title="Twitter" class="no-mark-external" target="_blank"> <span class="icon-twitter"></span> <span aria-hidden="true">Twitter </span><span class="sr-only">Aditya Shriwastava's Twitter profile</span></a></li>
     <li> <a href="https://github.com/aditya-shriwastava" title="GitHub" class="no-mark-external" target="_blank"> <span class="icon-github"></span> <span aria-hidden="true">GitHub </span><span class="sr-only">Aditya Shriwastava's GitHub profile</span></a></li>
   </ul>
 </div>

@@ -22,9 +22,10 @@ author1:
   # Social media icons in sidebar.
   # Comment/uncommet to show/hide. Rearrange to change the order in which they appear.
   social:
+    linkedin:        aditya-shriwastava-b07849143
     twitter:         AdityaShriwas18
-    # instagram:       abirsaha_
     github:          aditya-shriwastava
+    # instagram:       abirsaha_
     # download:        <url>
     # email:           <mail@domain.tld>
     # rss:             https://<url>/feed.xml
@@ -54,7 +55,6 @@ author1:
     # npm:             <username>
     # hackernews:      <username>
     # trello:          <firstnamelastname>
-    linkedin:        aditya-shriwastava-b07849143
     # xing:            <firstname_lastname_counter>
     # blogger:         <number>
     # delicious:       <username>
