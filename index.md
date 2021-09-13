@@ -27,8 +27,6 @@ hide_description: true
 
 Hi, I'm Aditya Shriwastava. I am a robotics engineer. The thing that has inspired me is that, for many of the intresting problems that we want to solve in robotics, the hardare is sufficiently capable but its the software which is the bottleneck. So for the last couple of years i have been working on the software for wheel mobile robot. Wheeled mobile robot because of the simplicity of its hardware.
 
-During my brief professional career, I have worked on autonomous navigation of mobile robots in warehouse and office environments.
-
 <div class="body-social sidebar-social">
   <ul>
     <li> <a href="https://www.linkedin.com/in/aditya-shriwastava-b07849143" title="LinkedIn" class="no-mark-external" target="_blank"> <span class="icon-linkedin2"></span> <span aria-hidden="true">LinkedIn </span><span class="sr-only">Aditya Shriwastava's LinkedIn profile</span></a></li>
